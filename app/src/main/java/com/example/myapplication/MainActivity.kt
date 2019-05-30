@@ -3,7 +3,6 @@ package com.example.myapplication
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-// second
 // three
 class MainActivity : AppCompatActivity() {
 
